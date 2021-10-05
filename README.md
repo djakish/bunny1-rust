@@ -1,7 +1,7 @@
 ## Rust lang bookmarking tool
 Rust and Rocket used bookmarking tool for search bar.
 ## Installation
-
+Requires a rust nightly
 ```sh
 cargo run
 ```
